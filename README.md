@@ -3,7 +3,7 @@
 A Computer Scientist turned Generative A/V Artist.
 I create real-time generative visuals inspired by psychedelic, hypnagogic states of consciousness.
 
-www.hekuli.com
+www.hekuli.com 
 https://www.instagram.com/hek.uli/
 
 
