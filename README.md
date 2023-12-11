@@ -3,8 +3,8 @@
 A Computer Scientist turned Generative A/V Artist.
 I create real-time generative visuals inspired by psychedelic, hypnagogic states of consciousness.
 
-www.hekuli.com 
-https://www.instagram.com/hek.uli/
+www.hekuli.com  
+https://instagram.com/hek.uli/
 
 
 - 👀 I’m interested in Touchdesigner, GLSL, Python.
