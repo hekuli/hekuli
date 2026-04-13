@@ -2,6 +2,7 @@
 
 A Computer Scientist turned Generative A/V Artist.
 I create real-time generative visuals inspired by psychedelic, hypnagogic states of consciousness, and software to create them.
+
 I built a pretty cool video synth for iOS: www.chromatose.app
 
 www.hekuli.com  
